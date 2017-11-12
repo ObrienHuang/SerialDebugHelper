@@ -1,0 +1,6 @@
+F:\12、SharpDevelop\demo\demo\bin\Release\demo.exe.config
+F:\12、SharpDevelop\demo\demo\bin\Release\demo.exe
+F:\12、SharpDevelop\demo\demo\obj\Release\demo.csprojResolveAssemblyReference.cache
+F:\12、SharpDevelop\demo\demo\obj\Release\demo.MainForm.resources
+F:\12、SharpDevelop\demo\demo\obj\Release\demo.csproj.GenerateResource.Cache
+F:\12、SharpDevelop\demo\demo\obj\Release\demo.exe

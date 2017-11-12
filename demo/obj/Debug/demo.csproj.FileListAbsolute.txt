@@ -1,0 +1,8 @@
+F:\12、SharpDevelop\demo\demo\obj\Debug\demo.csprojResolveAssemblyReference.cache
+F:\12、SharpDevelop\demo\demo\obj\Debug\demo.MainForm.resources
+F:\12、SharpDevelop\demo\demo\obj\Debug\demo.csproj.GenerateResource.Cache
+F:\12、SharpDevelop\demo\demo\bin\Debug\信技传奇-串口调试助手.exe.config
+F:\12、SharpDevelop\demo\demo\bin\Debug\信技传奇-串口调试助手.exe
+F:\12、SharpDevelop\demo\demo\bin\Debug\信技传奇-串口调试助手.pdb
+F:\12、SharpDevelop\demo\demo\obj\Debug\信技传奇-串口调试助手.exe
+F:\12、SharpDevelop\demo\demo\obj\Debug\信技传奇-串口调试助手.pdb
